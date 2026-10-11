@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.coverage
+
+# Frontend
+node_modules/
+dist/
+frontend/.env.local
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ML artifacts and uploads (keep large/private files out of Git)
+backend/uploads/
+backend/models/*.keras
+backend/models/*.h5
