@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PocketCrop+ 2.0
 
 A multilingual, AI-assisted farmer decision-support system, initially focused on Tamil Nadu, India.
@@ -97,3 +98,7 @@ Replace `YOUR_GITHUB_USERNAME`. Confirm `.env` is not listed by `git status` bef
 6. Agricultural knowledge ingestion, retrieval, and multilingual LLM assistant
 7. Weather integration, cultivation tracking, and alerts
 8. Tests, deployment, and documentation
+=======
+# PocketCrop
+PocketCrop+ 2.0 is a multilingual AI-powered farming support system built with React, FastAPI, and PostgreSQL. It aims to provide crop recommendations, plant disease detection, farm cost analysis, and agricultural guidance in English and Tamil.
+>>>>>>> d978f7a87ab34762af919080eadf931243d48390
